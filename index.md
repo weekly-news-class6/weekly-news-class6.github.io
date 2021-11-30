@@ -9,3 +9,5 @@
 #### 2021年11月
 
 *[20211129](https://weekly-news-class6.github.io/20211129)期*
+
+*[20211123](https://weekly-news-class6.github.io/20211123)期*
